@@ -42,7 +42,7 @@
     "eslint-plugin-react": "^7.0.0",
     "jasmine": "^2.5.2",
     "react": "16.0.0-alpha.6",
-    "react-native": "0.44.0"
+    "react-native": "0.70.2"
   },
   "homepage": "https://github.com/wix/react-native-calendars#readme",
   "license": "MIT",
